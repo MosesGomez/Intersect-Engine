@@ -7,22 +7,20 @@ namespace Intersect.Enums
         Attack = 0,
 
         AbilityPower,
+        Defense,
 
         MagicResist,
 
         Speed,
-
-        StatCount,
         
         Vitality,
 
-        Strenght,
-
-        Intellect,
-
         Dexterity,
 
-        Defense,
+
+
+        StatCount,
+        
 
 
 
