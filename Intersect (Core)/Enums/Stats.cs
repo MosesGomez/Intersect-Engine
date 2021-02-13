@@ -8,13 +8,23 @@ namespace Intersect.Enums
 
         AbilityPower,
 
-        Defense,
-
         MagicResist,
 
         Speed,
 
-        StatCount
+        StatCount,
+        
+        Vitality,
+
+        Strenght,
+
+        Intellect,
+
+        Dexterity,
+
+        Defense,
+
+
 
     }
 
